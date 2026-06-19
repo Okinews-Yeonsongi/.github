@@ -46,9 +46,10 @@
 ---
 
 ## 🚐 우리가 푼 문제
-<img width="520" height="360" alt="image" src="https://github.com/user-attachments/assets/4b8164b8-81ad-403a-9376-cd475ea4fa3a" />
-<img width="512" height="326" alt="image" src="https://github.com/user-attachments/assets/9b755f95-9fdc-4453-b651-455d48e7b7cc" />
-<img width="512" height="326" alt="image" src="https://github.com/user-attachments/assets/27031478-85e0-4430-b48b-079b93991ec1" />
+<img width="512" height="300" alt="KakaoTalk_20260619_211651236" src="https://github.com/user-attachments/assets/219a5cf8-5dcb-43ec-8a95-5a36d1e919e0" />
+<img width="512" height="300" alt="image" src="https://github.com/user-attachments/assets/9b755f95-9fdc-4453-b651-455d48e7b7cc" />
+<img width="512" height="330" alt="image" src="https://github.com/user-attachments/assets/4b8164b8-81ad-403a-9376-cd475ea4fa3a" />
+<img width="512" height="330" alt="image" src="https://github.com/user-attachments/assets/27031478-85e0-4430-b48b-079b93991ec1" />
 
 
 청산면 주민은 병원·시장·관공서를 가려면 옥천 읍내로 나가야 합니다.
@@ -93,7 +94,7 @@
 ## 🗺️ 서비스 구조도
 
 <div align="center">
-<img width="2001" height="1125" alt="daramjwi_architecture" src="https://github.com/user-attachments/assets/44096a12-1eaf-4472-b123-ada2aedd6b8d" />
+<img width="1000" height="512" alt="daramjwi_architecture" src="https://github.com/user-attachments/assets/44096a12-1eaf-4472-b123-ada2aedd6b8d" />
 </div>
 
 주민용·기사용은 하나의 **Next.js PWA**(역할 선택 후 분기)로 동작하며, 백엔드 **REST API 서버**(Next.js · Vercel)와 **Supabase**(PostgreSQL · Auth · Realtime)를 함께 사용합니다. 클라이언트는 OTP 인증과 실시간 동기화를 위해 Supabase에 **직접** 연결되기도 합니다. 인증은 **카카오 로그인(OAuth 2.0)**, 알림은 **Web Push(VAPID)** — SMS·알림톡은 사업자 연동 후 추가될 예정입니다.
@@ -150,10 +151,10 @@
 <div align="center">
 
 <!-- 📸 발표/행사 사진 자리 -->
-<img width="400" height="300" alt="KakaoTalk_20260619_151113079_01" src="https://github.com/user-attachments/assets/8f59130a-6462-48cd-8e07-a139dd080590" />
 <img width="300" height="400" alt="KakaoTalk_20260619_151113079_04" src="https://github.com/user-attachments/assets/25590e55-2ff3-448d-bb61-47688252cb33" />
 <img width="300" height="400" alt="KakaoTalk_20260619_151113079_02" src="https://github.com/user-attachments/assets/004adc28-51ce-421a-a3b9-8a44893ba652" />
-<img width="403" height="302" alt="KakaoTalk_20260619_205236519_03" src="https://github.com/user-attachments/assets/580653e5-0a21-4670-bf33-38071a3f0c43" />
+<img width="600" height="450" alt="KakaoTalk_20260619_151113079_01" src="https://github.com/user-attachments/assets/8f59130a-6462-48cd-8e07-a139dd080590" />
+<img width="600" height="450" alt="KakaoTalk_20260619_205236519_03" src="https://github.com/user-attachments/assets/580653e5-0a21-4670-bf33-38071a3f0c43" />
 
 **팀 연송이 · Tech for Impact Campus · Yonsei University**
 
