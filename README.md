@@ -26,7 +26,7 @@
 <div align="center">
 
 <!-- 📸 시상식 사진 자리 -->
-<img width="800" height="600" alt="KakaoTalk_20260619_173317412" src="https://github.com/user-attachments/assets/eea28383-d806-4fb0-a891-4f5999a9037b" />
+<img width="600" height="450" alt="KakaoTalk_20260619_173317412" src="https://github.com/user-attachments/assets/eea28383-d806-4fb0-a891-4f5999a9037b" />
 
 
 </div>
@@ -40,12 +40,16 @@
 휴대폰 카메라로 아래 QR을 찍으면 바로 열립니다.
 
 <div align="center">
-<img width="512" height="512" alt="daramjwi_qr" src="https://github.com/user-attachments/assets/6309a344-3212-42b0-baca-d4fd46fffdfd" />
+<img width="216" height="216" alt="daramjwi_qr" src="https://github.com/user-attachments/assets/6309a344-3212-42b0-baca-d4fd46fffdfd" />
 </div>
 
 ---
 
 ## 🚐 우리가 푼 문제
+<img width="520" height="360" alt="image" src="https://github.com/user-attachments/assets/4b8164b8-81ad-403a-9376-cd475ea4fa3a" />
+<img width="512" height="326" alt="image" src="https://github.com/user-attachments/assets/9b755f95-9fdc-4453-b651-455d48e7b7cc" />
+<img width="512" height="326" alt="image" src="https://github.com/user-attachments/assets/27031478-85e0-4430-b48b-079b93991ec1" />
+
 
 청산면 주민은 병원·시장·관공서를 가려면 옥천 읍내로 나가야 합니다.
 하지만 버스는 배차 간격이 길어 한 번 놓치면 **1시간 이상** 기다려야 하고,
@@ -147,8 +151,8 @@
 
 <!-- 📸 발표/행사 사진 자리 -->
 <img width="400" height="300" alt="KakaoTalk_20260619_151113079_01" src="https://github.com/user-attachments/assets/8f59130a-6462-48cd-8e07-a139dd080590" />
-<img width="3000" height="4000" alt="KakaoTalk_20260619_151113079_02" src="https://github.com/user-attachments/assets/004adc28-51ce-421a-a3b9-8a44893ba652" />
 <img width="300" height="400" alt="KakaoTalk_20260619_151113079_04" src="https://github.com/user-attachments/assets/25590e55-2ff3-448d-bb61-47688252cb33" />
+<img width="300" height="400" alt="KakaoTalk_20260619_151113079_02" src="https://github.com/user-attachments/assets/004adc28-51ce-421a-a3b9-8a44893ba652" />
 <img width="403" height="302" alt="KakaoTalk_20260619_205236519_03" src="https://github.com/user-attachments/assets/580653e5-0a21-4670-bf33-38071a3f0c43" />
 
 **팀 연송이 · Tech for Impact Campus · Yonsei University**
