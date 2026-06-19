@@ -3,8 +3,8 @@
 # 🐿️ 다람쥐택시 — 예약·운영 관리 서비스
 **🇰🇷 한국어** &nbsp;·&nbsp; [🇬🇧 English](./README.en.md)
 
-## "교통이 끊기면, 생활도 끊긴다."
-충북 옥천군 청산면의 **이동권**을 위한 다람쥐택시 예약·운영 디지털 서비스
+> ## "교통이 끊기면, 생활도 끊긴다."
+> 충북 옥천군 청산면의 **이동권**을 위한 다람쥐택시 예약·운영 디지털 서비스
 
 ![Award](https://img.shields.io/badge/🥇_1등_·_Social_Value_Award-Tech_for_Impact_Campus_2026-FFE500?style=for-the-badge&labelColor=1A1A1A)
 &nbsp;
@@ -22,7 +22,6 @@
 **옥천신문 — 팀 연송이**가 **1등(사회가치상)** 을 수상했습니다.
 
 <div align="center">
-
 <!-- 📸 시상식 사진 자리 -->
 <img width="600" height="450" alt="KakaoTalk_20260619_173317412" src="https://github.com/user-attachments/assets/eea28383-d806-4fb0-a891-4f5999a9037b" />
 
@@ -94,7 +93,7 @@
 <img width="800" height="400" alt="daramjwi_architecture" src="https://github.com/user-attachments/assets/44096a12-1eaf-4472-b123-ada2aedd6b8d" />
 </div>
 
-주민용·기사용은 하나의 **Next.js PWA**(역할 선택 후 분기)로 동작하며, 백엔드 **REST API 서버**(Next.js · Vercel)와 **Supabase**(PostgreSQL · Auth · Realtime)를 함께 사용합니다. 클라이언트는 OTP 인증과 실시간 동기화를 위해 Supabase에 **직접** 연결되기도 합니다. 인증은 **카카오 로그인(OAuth 2.0)**, 알림은 **Web Push(VAPID)** — SMS·알림톡은 사업자 연동 후 추가될 예정입니다.
+· 주민용·기사용은 하나의 **Next.js PWA**(역할 선택 후 분기)로 동작하며, 백엔드 **REST API 서버**(Next.js · Vercel)와 **Supabase**(PostgreSQL · Auth · Realtime)를 함께 사용합니다. 클라이언트는 OTP 인증과 실시간 동기화를 위해 Supabase에 **직접** 연결되기도 합니다. 인증은 **카카오 로그인(OAuth 2.0)**, 알림은 **Web Push(VAPID)** — SMS·알림톡은 사업자 연동 후 추가될 예정입니다.
 
 ---
 
