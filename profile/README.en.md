@@ -110,8 +110,8 @@ The resident and driver apps run as a single **Next.js PWA** (branching after a 
 
 | Repository | Description |
 | --- | --- |
-| [`daramjwi-taxi-client`](../../daramjwi-taxi-client) | Unified resident + driver PWA frontend |
-| [`daramjwi-taxi-server`](../../daramjwi-taxi-server) | Reservation / operations / settlement API (Supabase + Next.js) |
+| [`daramjwi-taxi-client`](../../../../daramjwi-taxi-client) | Unified resident + driver PWA frontend |
+| [`daramjwi-taxi-server`](../../../../daramjwi-taxi-server) | Reservation / operations / settlement API (Supabase + Next.js) |
 
 🔗 **Live** — https://daramjwi-taxi-client.vercel.app/
 
