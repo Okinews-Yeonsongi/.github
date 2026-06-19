@@ -121,8 +121,8 @@
 
 | Repository | 설명 |
 | --- | --- |
-| [`daramjwi-taxi-client`](../../../daramjwi-taxi-client) | 주민용·기사용 통합 PWA 프론트엔드 |
-| [`daramjwi-taxi-server`](../../../daramjwi-taxi-server) | 예약·운행·정산 API 서버 (Supabase + Next.js) |
+| [`daramjwi-taxi-client`](../../../../daramjwi-taxi-client) | 주민용·기사용 통합 PWA 프론트엔드 |
+| [`daramjwi-taxi-server`](../../../../daramjwi-taxi-server) | 예약·운행·정산 API 서버 (Supabase + Next.js) |
 
 🔗 **Live** — https://daramjwi-taxi-client.vercel.app/
 
