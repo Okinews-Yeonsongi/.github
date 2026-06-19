@@ -93,6 +93,7 @@
 <img width="800" height="400" alt="daramjwi_architecture" src="https://github.com/user-attachments/assets/44096a12-1eaf-4472-b123-ada2aedd6b8d" />
 </div>
 
+
 · 주민용·기사용은 하나의 **Next.js PWA**(역할 선택 후 분기)로 동작하며, 백엔드 **REST API 서버**(Next.js · Vercel)와 **Supabase**(PostgreSQL · Auth · Realtime)를 함께 사용합니다. 클라이언트는 OTP 인증과 실시간 동기화를 위해 Supabase에 **직접** 연결되기도 합니다. 인증은 **카카오 로그인(OAuth 2.0)**, 알림은 **Web Push(VAPID)** — SMS·알림톡은 사업자 연동 후 추가될 예정입니다.
 
 ---
@@ -142,7 +143,6 @@
 현장을 열어주신 옥천신문 **황민호 대표님**,
 그리고 기획부터 기술 구현까지 함께 고민해주신 카카오 **제이(Jay) 멘토님 · 에릭(Eric) 멘토님**께 감사드립니다.
 
-> *"기술이 개입해야 할 영역과, 현장의 자율성을 존중해야 할 영역을 구분하는 법을 배웠습니다."*
 
 <div align="center">
 
