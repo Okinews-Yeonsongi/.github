@@ -37,10 +37,7 @@ At the Tech for Impact Campus showcase (Yonsei University × kakao!mpact),
 Or scan the QR code below with your phone camera.
 
 <div align="center">
-
-<!-- 📸 QR: drop the provided daramjwi_qr.png right below this line.
-     To resize after dropping, replace the markdown with <img src="..." width="240" />. -->
-
+<img width="216" height="216" alt="daramjwi_qr" src="https://github.com/user-attachments/assets/6309a344-3212-42b0-baca-d4fd46fffdfd" />
 </div>
 
 ---
