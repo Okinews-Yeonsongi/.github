@@ -46,10 +46,10 @@
 ---
 
 ## 🚐 우리가 푼 문제
-<img width="512" height="300" alt="KakaoTalk_20260619_211651236" src="https://github.com/user-attachments/assets/219a5cf8-5dcb-43ec-8a95-5a36d1e919e0" />
-<img width="512" height="300" alt="image" src="https://github.com/user-attachments/assets/9b755f95-9fdc-4453-b651-455d48e7b7cc" />
-<img width="512" height="330" alt="image" src="https://github.com/user-attachments/assets/4b8164b8-81ad-403a-9376-cd475ea4fa3a" />
-<img width="512" height="330" alt="image" src="https://github.com/user-attachments/assets/27031478-85e0-4430-b48b-079b93991ec1" />
+<img width="400" height="240" alt="KakaoTalk_20260619_211651236" src="https://github.com/user-attachments/assets/219a5cf8-5dcb-43ec-8a95-5a36d1e919e0" />
+<img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/9b755f95-9fdc-4453-b651-455d48e7b7cc" />
+<img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/4b8164b8-81ad-403a-9376-cd475ea4fa3a" />
+<img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/27031478-85e0-4430-b48b-079b93991ec1" />
 
 
 청산면 주민은 병원·시장·관공서를 가려면 옥천 읍내로 나가야 합니다.
