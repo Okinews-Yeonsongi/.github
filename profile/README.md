@@ -1,11 +1,9 @@
 <div align="center">
 
 # 🐿️ 다람쥐택시 — 예약·운영 관리 서비스
-
 **🇰🇷 한국어** &nbsp;·&nbsp; [🇬🇧 English](./README.en.md)
 
 ## "교통이 끊기면, 생활도 끊긴다."
-
 충북 옥천군 청산면의 **이동권**을 위한 다람쥐택시 예약·운영 디지털 서비스
 
 ![Award](https://img.shields.io/badge/🥇_1등_·_Social_Value_Award-Tech_for_Impact_Campus_2026-FFE500?style=for-the-badge&labelColor=1A1A1A)
