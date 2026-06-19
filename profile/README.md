@@ -35,10 +35,7 @@
 
 ## 🔗 프로토타입 체험하기
 
-👉 **[다람쥐택시 앱 바로가기](https://daramjwi-taxi-client.vercel.app/)** &nbsp;— 휴대폰으로 열면 가장 자연스럽습니다.
-
-휴대폰 카메라로 아래 QR을 찍으면 바로 열립니다.
-
+👉 **[다람쥐택시 앱 바로가기](https://daramjwi-taxi-client.vercel.app/)** &nbsp;
 <div align="center">
 <img width="216" height="216" alt="daramjwi_qr" src="https://github.com/user-attachments/assets/6309a344-3212-42b0-baca-d4fd46fffdfd" />
 </div>
