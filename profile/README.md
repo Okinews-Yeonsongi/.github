@@ -16,10 +16,10 @@
 
 ---
 
-## 🥇 Tech for Impact Campus 2026 · 1등 (사회가치상) 수상
+## 🥇 Tech for Impact Campus 2026 · 사회가치상 수상
 
 연세대학교 × kakao!mpact가 함께한 **Tech for Impact Campus** 성과 공유회에서
-**옥천신문 — 팀 연송이**가 **1등(사회가치상)** 을 수상했습니다.
+**옥천신문 — 팀 연송이**가 **사회가치상** 을 수상했습니다.
 
 <div align="center">
 <!-- 📸 시상식 사진 자리 -->
