@@ -16,10 +16,10 @@
 
 ---
 
-## 🥇 1st Place (Social Value Award) · Tech for Impact Campus 2026
+## 🥇 Social Value Award · Tech for Impact Campus 2026
 
 At the Tech for Impact Campus showcase (Yonsei University × kakao!mpact),
-**Okcheon News — Team Yeonsongi** won **1st place (Social Value Award)**.
+**Okcheon News — Team Yeonsongi** won **Social Value Award**.
 
 <div align="center">
 <!-- 📸 Award photo -->
